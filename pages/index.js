@@ -23,7 +23,7 @@ const Index = () => {
               <div className="col-lg-8">
                 <div className="hero-content">
                   <h1 className="wow fadeInUp" >
-                    Dream Explore Discover
+                    Natural Healty care
                   </h1>
                   <h3 className="wow fadeInDown">
                     People Don’t Take,Trips Take People
@@ -63,58 +63,30 @@ const Index = () => {
                     alt="Listing Image"
                   />
                   <span className="featured-btn">Featured</span>
-                  <div className="thumbnail-meta d-flex justify-content-between align-items-center">
-                    <div className="meta-icon-title d-flex align-items-center">
-                      <div className="icon">
-                        <i className="flaticon-chef"></i>
-                      </div>
-                      <div className="title">
-                        <h6>Restaurant</h6>
-                      </div>
-                    </div>
-                    <span className="status st-open">Open</span>
-                  </div>
+                  
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
                     <Link href="/listing-details-1">
-                      <a>Food Corner</a>
+                      <a>Manyuchi Kambucha</a>
                     </Link>
                   </h3>
                   <div className="ratings">
                     <ul className="ratings ratings-three">
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
+                     
                       <li>
                         <span>
-                          <a href="#">(02 Reviews)</a>
+                          <a href="#">(antidepressant, anticonvulsant)</a>
                         </span>
                       </li>
                     </ul>
                   </div>
                   <span className="price">$05.00 - $80.00</span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05">+98 (265) 3652 - 05</a>
-                  </span>
                   <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
-                          <i className="ti-location-pin"></i>California, USA
+                          <i className="ti-location-pin"></i>Graniteside, Harare
                         </span>
                       </li>
                       <li>
@@ -139,58 +111,30 @@ const Index = () => {
                     alt="Listing Image"
                   />
                   <span className="featured-btn">Featured</span>
-                  <div className="thumbnail-meta d-flex justify-content-between align-items-center">
-                    <div className="meta-icon-title d-flex align-items-center">
-                      <div className="icon">
-                        <i className="flaticon-government"></i>
-                      </div>
-                      <div className="title">
-                        <h6>Museums</h6>
-                      </div>
-                    </div>
-                    <span className="status st-open">Open</span>
-                  </div>
+                  
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
                     <Link href="/listing-details-1">
-                      <a>Central History</a>
+                      <a>Lemon Kambucha</a>
                     </Link>
                   </h3>
                   <div className="ratings">
                     <ul className="ratings ratings-three">
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
+                      
                       <li>
                         <span>
-                          <a href="#">(02 Reviews)</a>
+                          <a href="#">(Healty Digestion)</a>
                         </span>
                       </li>
                     </ul>
                   </div>
                   <span className="price">$05.00 - $80.00</span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05">+98 (265) 3652 - 05</a>
-                  </span>
                   <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
-                          <i className="ti-location-pin"></i>California, USA
+                          <i className="ti-location-pin"></i>Graniteside, Harare
                         </span>
                       </li>
                       <li>
@@ -214,59 +158,30 @@ const Index = () => {
                     src="assets/images/fresh/m3.jpeg"
                     alt="Listing Image"
                   />
-                  <span className="featured-btn">Fitness</span>
-                  <div className="thumbnail-meta d-flex justify-content-between align-items-center">
-                    <div className="meta-icon-title d-flex align-items-center">
-                      <div className="icon">
-                        <i className="flaticon-dumbbell"></i>
-                      </div>
-                      <div className="title">
-                        <h6>Fitness</h6>
-                      </div>
-                    </div>
-                    <span className="status st-close">Close</span>
-                  </div>
+                  <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
                     <Link href="/listing-details-1">
-                      <a>Xtream Gym</a>
+                      <a>Fresh Kambucha</a>
                     </Link>
                   </h3>
                   <div className="ratings">
                     <ul className="ratings ratings-three">
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
-                      <li className="star">
-                        <i className="flaticon-star-1"></i>
-                      </li>
+                      
                       <li>
                         <span>
-                          <a href="#">(02 Reviews)</a>
+                          <a href="#">Xtream System Boost</a>
                         </span>
                       </li>
                     </ul>
                   </div>
                   <span className="price">$05.00 - $80.00</span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05">+98 (265) 3652 - 05</a>
-                  </span>
                   <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
-                          <i className="ti-location-pin"></i>California, USA
+                          <i className="ti-location-pin"></i>Graniteside, Harare
                         </span>
                       </li>
                       <li>

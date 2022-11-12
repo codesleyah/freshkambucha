@@ -27,7 +27,7 @@ const Contact = () => {
                   </div>
                   <div className="info">
                     <h5>Address</h5>
-                    <p>46 suvastu arcade 3rd Floor palace road, London.</p>
+                    <p>17001 Sande Crescent Graniteside Harare</p>
                   </div>
                 </div>
                 <div className="information-item mb-30 wow fadeInUp">
@@ -37,10 +37,7 @@ const Contact = () => {
                   <div className="info">
                     <h5>Phone</h5>
                     <p>
-                      <a href="tel:445555552580">44 (555) 555 2580</a>
-                    </p>
-                    <p>
-                      <a href="tel:445555552580">31 (555) 222 2560</a>
+                      <a href="tel:445555552580">+263 771 720 598</a>
                     </p>
                   </div>
                 </div>
@@ -51,10 +48,7 @@ const Contact = () => {
                   <div className="info">
                     <h5>Email</h5>
                     <p>
-                      <a href="mailto:info@fioxen20.com">info@fioxen20.com</a>
-                    </p>
-                    <p>
-                      <a href="mailto:info@fioxen20.com">info@fioxen22.com</a>
+                      <a href="mailto:info@fioxen20.com">kumbuchafreshzimbabwe@gmail.com</a>
                     </p>
                   </div>
                 </div>

@@ -288,7 +288,7 @@ const About = () => {
             <div className="col-lg-6">
               <div className="section-title text-center mb-50 wow fadeInUp">
                 <span className="sub-title">Team Member</span>
-                <h2>Meet Our Executive</h2>
+                <h2>Meet Our Members</h2>
               </div>
             </div>
           </div>
@@ -323,8 +323,8 @@ const About = () => {
                   </div>
                 </div>
                 <div className="team-info text-center">
-                  <h3 className="title">Alesha Mature</h3>
-                  <span className="position">Sr. Executive</span>
+                  <h3 className="title">else</h3>
+                  <span className="position">sales rep</span>
                 </div>
               </div>
             </div>
@@ -361,8 +361,8 @@ const About = () => {
                   </div>
                 </div>
                 <div className="team-info text-center">
-                  <h3 className="title">Martyn Decode</h3>
-                  <span className="position">Sr. Executive</span>
+                  <h3 className="title">else</h3>
+                  <span className="position">sales rep</span>
                 </div>
               </div>
             </div>
@@ -396,8 +396,8 @@ const About = () => {
                   </div>
                 </div>
                 <div className="team-info text-center">
-                  <h3 className="title">Alesha Mature</h3>
-                  <span className="position">Sr. Executive</span>
+                  <h3 className="title">elsa</h3>
+                  <span className="position">Sales rep</span>
                 </div>
               </div>
             </div>

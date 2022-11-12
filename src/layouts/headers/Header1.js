@@ -41,7 +41,7 @@ const Header1 = () => {
                   <Link href="/">
                     <a className="brand-logo">
                       <img
-                        src="assets/images/logo/logo-1.png"
+                        src="assets/images/fresh/gt.jpeg"
                         alt="Brand Logo"
                       />
                     </a>
