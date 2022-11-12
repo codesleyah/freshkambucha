@@ -55,7 +55,7 @@ const Index = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
-                dta-wow-delay="10ms"
+                
               >
                 <div className="listing-thumbnail">
                   <img
@@ -131,7 +131,7 @@ const Index = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
-                dta-wow-delay="20ms"
+                
               >
                 <div className="listing-thumbnail">
                   <img
@@ -207,7 +207,7 @@ const Index = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
-                dta-wow-delay="30ms"
+              
               >
                 <div className="listing-thumbnail">
                   <img
