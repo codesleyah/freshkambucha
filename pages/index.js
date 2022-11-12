@@ -22,10 +22,10 @@ const Index = () => {
             <div className="row">
               <div className="col-lg-8">
                 <div className="hero-content">
-                  <h1 className="wow fadeInUp" wow-data-delay="30mss">
+                  <h1 className="wow fadeInUp" >
                     Dream Explore Discover
                   </h1>
-                  <h3 className="wow fadeInDown" wow-data-delay="50ms">
+                  <h3 className="wow fadeInDown">
                     People Don’t Take,Trips Take People
                   </h3>
                   <p className="tags">
