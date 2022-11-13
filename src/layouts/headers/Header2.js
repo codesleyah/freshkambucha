@@ -7,21 +7,25 @@ const Header2 = () => {
     <header className="header-area header-area-two d-none d-xl-block">
       <div className="header-navigation">
         <div className="container-fluid">
-          <div className="primary-menu">
+          <div className="primary-menu">   
             <div className="row align-items-center">
+
               <div className="col-lg-2 col-5">
                 <div className="site-branding">
                   <Link href="/">
                     <a className="brand-logo">
                       <img
-                        src="assets/images/logo/logo-2.png"
+                        height={50}
+                        src="assets/images/logo/logol.png"
                         alt="Brand Logo"
                       />
                     </a>
                   </Link>
                 </div>
               </div>
-              <div className="col-lg-6 col-2">
+
+              <div className="col-md-3" ></div>
+              <div className="col-md-3 col-2">
                 <div className="nav-menu">
                   <div className="navbar-close">
                     <i className="ti-close"></i>
@@ -33,9 +37,7 @@ const Header2 = () => {
                           <a>Home</a>
                         </Link>
                       </li>
-                      <About />
-
-                      
+                      <About />   
                       <Contact />
                       <li className="nav-btn">
                         <Link href="/add-listing">
@@ -46,35 +48,13 @@ const Header2 = () => {
                   </nav>
                 </div>
               </div>
+
               <div className="col-lg-4 col-5">
                 <div className="header-right-nav">
                   <ul className="d-flex align-items-center">
-                    <li>
-                      <Link href="/">
-                        <a>
-                          <i className="ti-heart"></i>
-                          <span>Wishlist</span>
-                        </a>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/">
-                        <a>
-                          <i className="ti-shopping-cart"></i>
-                          <span>Cart</span>
-                        </a>
-                      </Link>
-                    </li>
-                    <li className="user-btn">
-                      <Link href="/">
-                        <a className="icon">
-                          <i className="flaticon-avatar"></i>
-                        </a>
-                      </Link>
-                    </li>
                     <li className="hero-nav-btn">
-                      <Link href="/add-listing">
-                        <a className="main-btn icon-btn">Add Listing</a>
+                      <Link href="#">
+                        <a className="main-btn icon-btn">Call Us Now</a>
                       </Link>
                     </li>
                     <li className="nav-toggle-btn">

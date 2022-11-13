@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/about.js"
-    ],
-    "/how-work": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/how-work.js"
     ]
   },
   "ampFirstPages": []

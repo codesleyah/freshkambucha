@@ -14,22 +14,24 @@ const Index = () => {
   const [video, setVideo] = useState(false);
   return (
     <Layout>
-      {video && <VideoPopup close={setVideo} />}
-      {/* <!--====== Start Hero Section ======--> */}
-      <section className="hero-area">
-        <div className="hero-wrapper-one">
+     {/*====== Start Hero Section ======*/}
+     <section className="hero-area">
+        <div
+          className="hero-wrapper-two bg_cover"
+          style={{ backgroundImage: "url(assets/images/fresh/backg.jpg)" }}
+        >
           <div className="container">
             <div className="row">
-              <div className="col-lg-8">
+              <div className="col-lg-12">
                 <div className="hero-content">
-                  <h1 className="wow fadeInUp" >
-                    Natural Healty care
+                  <h1 className="wow fadeInUp" data-wow-delay="30ms">
+                    Experience The Wonder
                   </h1>
-                  <h3 className="wow fadeInDown">
+                  <h3 className="wow fadeInDown" data-wow-delay="50ms">
                     People Don’t Take,Trips Take People
                   </h3>
                   <p className="tags">
-                    <span>Popular Drinks : Manyuchi,Fresh Kambucha, Lemon</span>
+                    <span>Popular Drinks:</span>
                   </p>
                 </div>
               </div>
@@ -37,7 +39,7 @@ const Index = () => {
           </div>
         </div>
       </section>
-      {/* <!--====== End Hero Section ======--> */}
+      {/*====== End Hero Section ======*/}
 
 
       {/* <!--====== Start Listing Section ======--> */}
@@ -71,32 +73,6 @@ const Index = () => {
                       <a>Manyuchi Kambucha</a>
                     </Link>
                   </h3>
-                  <div className="ratings">
-                    <ul className="ratings ratings-three">
-                     
-                      <li>
-                        <span>
-                          <a href="#">(antidepressant, anticonvulsant)</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-                  <span className="price">$05.00 - $80.00</span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-location-pin"></i>Graniteside, Harare
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -119,32 +95,6 @@ const Index = () => {
                       <a>Lemon Kambucha</a>
                     </Link>
                   </h3>
-                  <div className="ratings">
-                    <ul className="ratings ratings-three">
-                      
-                      <li>
-                        <span>
-                          <a href="#">(Healty Digestion)</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-                  <span className="price">$05.00 - $80.00</span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-location-pin"></i>Graniteside, Harare
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -166,32 +116,6 @@ const Index = () => {
                       <a>Fresh Kambucha</a>
                     </Link>
                   </h3>
-                  <div className="ratings">
-                    <ul className="ratings ratings-three">
-                      
-                      <li>
-                        <span>
-                          <a href="#">Xtream System Boost</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-                  <span className="price">$05.00 - $80.00</span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-location-pin"></i>Graniteside, Harare
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -228,7 +152,7 @@ const Index = () => {
               <div className="col-lg-6">
                 <div className="features-img wow fadeInLeft">
                   <img
-                    src="assets/images/fresh/img1.jpeg"
+                    src="assets/images/fresh/team1.jpg"
                     alt="Features Image"
                   />
                 </div>
