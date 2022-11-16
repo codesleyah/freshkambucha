@@ -11,111 +11,13 @@ const About = () => {
 
       {/*====== Start Features Section ======*/}
       <section className="features-area">
-        <div className="features-wrapper-three pt-110">
-          <div className="container">
-            <div className="row justify-content-center">
-              <div className="col-lg-6">
-                <div className="section-title text-center mb-60 wow fadeInUp">
-                  <span className="sub-title">Some Feature</span>
-                  <h2>Caring Your Hobbies</h2>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-lg-3 col-md-6 col-sm-12">
-                <div
-                  className="features-item features-item-two text-center mb-40 wow fadeInUp"
-                  data-wow-delay="10ms"
-                >
-                  <div className="icon">
-                    <i className="flaticon-add-user" />
-                  </div>
-                  <div className="content">
-                    <h3 className="title">User Friendly</h3>
-                    <p>
-                      Congue men porttitor blandit erat to loborti lacinia
-                      sapien pretium disenty
-                    </p>
-                    <Link href="/how-work">
-                      <a className="btn-link icon-btn">More Details</a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-sm-12">
-                <div
-                  className="features-item features-item-two text-center mb-40 wow fadeInDown"
-                  data-wow-delay="20ms"
-                >
-                  <div className="icon">
-                    <i className="flaticon-gift-box" />
-                  </div>
-                  <div className="content">
-                    <h3 className="title">Daily Offers</h3>
-                    <p>
-                      Congue men porttitor blandit erat to loborti lacinia
-                      sapien pretium disenty
-                    </p>
-                    <Link href="/how-work">
-                      <a className="btn-link icon-btn">More Details</a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-sm-12">
-                <div
-                  className="features-item features-item-two text-center mb-40 wow fadeInUp"
-                  data-wow-delay="30ms"
-                >
-                  <div className="icon">
-                    <i className="flaticon-laptop" />
-                  </div>
-                  <div className="content">
-                    <h3 className="title">Quick Search</h3>
-                    <p>
-                      Congue men porttitor blandit erat to loborti lacinia
-                      sapien pretium disenty
-                    </p>
-                    <Link href="/how-work">
-                      <a className="btn-link icon-btn">More Details</a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-sm-12">
-                <div
-                  className="features-item features-item-two text-center mb-40 wow fadeInDown"
-                  data-wow-delay="40ms"
-                >
-                  <div className="icon">
-                    <i className="flaticon-headphone" />
-                  </div>
-                  <div className="content">
-                    <h3 className="title">Live Support</h3>
-                    <p>
-                      Congue men porttitor blandit erat to loborti lacinia
-                      sapien pretium disenty
-                    </p>
-                    <Link href="/how-work">
-                      <a className="btn-link icon-btn">More Details</a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/*====== End Features Section ======*/}
-      {/*====== Start Features Section ======*/}
-      <section className="features-area">
         <div className="features-wrapper-four pt-80 pb-115">
           <div className="container">
             <div className="row">
               <div className="col-lg-6">
                 <div className="features-img wow fadeInLeft">
                   <img
-                    src="assets/images/features/features-1.jpg"
+                    src="assets/images/fresh/abt.jpg"
                     alt="Features Image"
                   />
                 </div>
@@ -123,13 +25,10 @@ const About = () => {
               <div className="col-lg-6">
                 <div className="features-content-box features-content-box-one">
                   <div className="section-title section-title-left mb-30 wow fadeInUp">
-                    <span className="sub-title">Our Speciality</span>
-                    <h2>Comprehnsive All Great Destination Here</h2>
+                    <h2>Fresh Kambucha Beverages</h2>
                   </div>
                   <h5>
-                    Risus urnas Iaculis per amet vestibulum luctus.tincidunt
-                    ultricies aenean quam eros eleifend sodales cubilia mattis
-                    quam.
+                    The number one drink in the nation.
                   </h5>
                   <ul className="features-list-one">
                     <li
@@ -137,13 +36,13 @@ const About = () => {
                       data-wow-delay="10ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-find" />
                       </div>
                       <div className="content">
-                        <h5>Find What You Want</h5>
+                        <h5>Ingredients</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                            These drinks are made up of lemon,
+                              ginger, garlic ,honey, murumanyama,
+                                beetroot, banana, pineapple.
                         </p>
                       </div>
                     </li>
@@ -152,13 +51,11 @@ const About = () => {
                       data-wow-delay="20ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-place" />
                       </div>
                       <div className="content">
-                        <h5>Easy Choose Your Place</h5>
+                        <h5>Enjoy different flavours</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                          The fresh kambucha drinks comes in manny different flavours such as Manyuchi, Lemon and many more.
                         </p>
                       </div>
                     </li>
@@ -167,13 +64,12 @@ const About = () => {
                       data-wow-delay="30ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-social-care" />
                       </div>
                       <div className="content">
-                        <h5>Live Online Assistance</h5>
+                        <h5>Readily available</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                          The fresh kambucha drinks are readily available in all our outlets. 
+                          Get yours today and enjoy the taste.
                         </p>
                       </div>
                     </li>
@@ -189,23 +85,16 @@ const About = () => {
       <section className="cta-area">
         <div
           className="cta-wrapper-two bg_cover b"
-          style={{ backgroundImage: "url(assets/images/bg/cta-bg-2.jpg)" }}
+          style={{ backgroundImage: "url(assets/images/fresh/bi.jpg)" }}
         >
           <div className="container">
             <div className="row align-items-center">
-              <div className="col-lg-7">
-                <div className="company-name wow fadeInLeft">Fioxen</div>
-              </div>
               <div className="col-lg-5">
                 <div className="cta-content-box wow fadeInRight">
-                  <h2>Visit the Best Places</h2>
+                  <h2>Visit Us</h2>
                   <p>
-                    Pharetra venenatis ante pulvinar fermentum dignissim one
-                    malesuada laoreet ridiculus fringilla quam
+                  17001 Sande Crescent Graniteside Hararem
                   </p>
-                  <Link href="/listing-grid">
-                    <a className="main-btn icon-btn">Explore Now</a>
-                  </Link>
                 </div>
               </div>
             </div>
@@ -213,34 +102,7 @@ const About = () => {
         </div>
       </section>
       {/*====== End CTA Section ======*/}
-      {/*====== Start Testimonial Section ======*/}
-      <section
-        className="testimonial-area bg_cover pt-110 pb-265"
-        style={{
-          backgroundImage: "url(assets/images/bg/testimonial-bg-2.jpg)",
-        }}
-      >
-        <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-lg-6">
-              <div className="section-title text-center mb-60 wow fadeInUp">
-                <span className="sub-title">Our Testimoinals</span>
-                <h2>Happy User Feedback</h2>
-              </div>
-            </div>
-          </div>
-          <div className="row justify-content-center">
-            <div className="col-lg-8">
-              <div className="testimonial-wrapper-one text-center wow fadeInUp">
-                <div className="testimonial-review-area">
-                  <TestimoinalSlider />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/*====== End Testimonial Section ======*/}
+      
       {/*====== Start Newsletter Section ======*/}
       <section className="newsletter-area">
         <div className="container">
@@ -257,7 +119,7 @@ const About = () => {
                     <i className="flaticon-email" />
                   </div>
                   <div className="content">
-                    <h2>Get Special Rewards</h2>
+                    <h2>Keep in touch</h2>
                   </div>
                 </div>
               </div>
@@ -287,117 +149,35 @@ const About = () => {
           <div className="row justify-content-center">
             <div className="col-lg-6">
               <div className="section-title text-center mb-50 wow fadeInUp">
-                <span className="sub-title">Team Member</span>
-                <h2>Meet Our Members</h2>
+                <span className="sub-title">The Team</span>
+                <h2>Gallery</h2>
               </div>
             </div>
           </div>
           <div className="row">
+
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="team-item team-item-one mb-30 wow fadeInUp">
                 <div className="team-img">
-                  <img src="assets/images/team/team-1.jpg" alt="Team Image" />
-                  <div className="team-social">
-                    <ul className="social-link">
-                      <li>
-                        <a href="#">
-                          <i className="ti-facebook" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-twitter-alt" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-linkedin" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-pinterest" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div className="team-info text-center">
-                  <h3 className="title">else</h3>
-                  <span className="position">sales rep</span>
+                  <img src="assets/images/fresh/tm1.jpg" alt="Team Image" />
                 </div>
               </div>
             </div>
+
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
                 className="team-item team-item-one mb-30 wow fadeInDown"
                 data-wow-delay="20ms"
               >
                 <div className="team-img">
-                  <img src="assets/images/team/team-2.jpg" alt="Team Image" />
-                  <div className="team-social">
-                    <ul className="social-link">
-                      <li>
-                        <a href="#">
-                          <i className="ti-facebook" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-twitter-alt" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-linkedin" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-pinterest" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div className="team-info text-center">
-                  <h3 className="title">else</h3>
-                  <span className="position">sales rep</span>
+                  <img src="assets/images/fresh/tm2.jpg" alt="Team Image" />
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="team-item team-item-one mb-30 wow fadeInUp">
                 <div className="team-img">
-                  <img src="assets/images/team/team-3.jpg" alt="Team Image" />
-                  <div className="team-social">
-                    <ul className="social-link">
-                      <li>
-                        <a href="#">
-                          <i className="ti-facebook" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-twitter-alt" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-linkedin" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
-                          <i className="ti-pinterest" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div className="team-info text-center">
-                  <h3 className="title">elsa</h3>
-                  <span className="position">Sales rep</span>
+                  <img src="assets/images/fresh/tm6.jpg" alt="Team Image" />
                 </div>
               </div>
             </div>

@@ -53,7 +53,7 @@ const Header2 = () => {
                 <div className="header-right-nav">
                   <ul className="d-flex align-items-center">
                     <li className="hero-nav-btn">
-                      <Link href="#">
+                      <Link href="tel:+263771720598">
                         <a className="main-btn icon-btn">Call Us Now</a>
                       </Link>
                     </li>

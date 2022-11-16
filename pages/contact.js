@@ -14,7 +14,7 @@ const Contact = () => {
             <div className="col-lg-10">
               <div className="section-title section-title-left mb-50">
                 <span className="sub-title">Contact With Us</span>
-                <h2>How Can We Help You</h2>
+                <h2>Get In touch</h2>
               </div>
             </div>
           </div>

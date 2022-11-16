@@ -25,13 +25,13 @@ const Index = () => {
               <div className="col-lg-12">
                 <div className="hero-content">
                   <h1 className="wow fadeInUp" data-wow-delay="30ms">
-                    Experience The Wonder
+                    Fresh Kambucha Drinks
                   </h1>
                   <h3 className="wow fadeInDown" data-wow-delay="50ms">
-                    People Don’t Take,Trips Take People
+                    My Taste, My Choice
                   </h3>
                   <p className="tags">
-                    <span>Popular Drinks:</span>
+                    <span>Ndipe one ndifare</span>
                   </p>
                 </div>
               </div>
@@ -54,14 +54,14 @@ const Index = () => {
             </div>
           </div>
           <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-3 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
                 
               >
                 <div className="listing-thumbnail">
                   <img
-                    src="assets/images/fresh/m1.jpeg"
+                    src="assets/images/fresh/a.jpeg"
                     alt="Listing Image"
                   />
                   <span className="featured-btn">Featured</span>
@@ -69,14 +69,36 @@ const Index = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-details-1">
-                      <a>Manyuchi Kambucha</a>
+                    <Link href="#">
+                      <a>Manyuchi Power</a>
                     </Link>
                   </h3>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div
+                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                
+              >
+                <div className="listing-thumbnail">
+                  <img
+                    src="assets/images/fresh/one.jpeg"
+                    alt="Listing Image"
+                  />
+                  <span className="featured-btn">Featured</span>
+                  
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="#">
+                      <a>Lemon Drink 1</a>
+                    </Link>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
                 
@@ -91,14 +113,14 @@ const Index = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-details-1">
-                      <a>Lemon Kambucha</a>
+                    <Link href="#">
+                      <a>Lemon Drink 2</a>
                     </Link>
                   </h3>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-3 col-md-6 col-sm-12">
               <div
                 className="listing-item listing-grid-one mb-45 wow fadeInUp"
               
@@ -112,8 +134,8 @@ const Index = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-details-1">
-                      <a>Fresh Kambucha</a>
+                    <Link href="#">
+                      <a>Fresh Kambucha 3</a>
                     </Link>
                   </h3>
                 </div>
@@ -135,7 +157,7 @@ const Index = () => {
               <div className="col-lg-8">
                 <div className="cta-content-box text-center wow fadeInUp">
                   <img src="assets/images/icon-1.png" alt="offer icon" />
-                  <h2>Splash Yourself Bigger Offer on Everyday</h2>
+                  <h2>We Lead, and every else follow!</h2>
                 </div>
               </div>
             </div>
@@ -165,13 +187,13 @@ const Index = () => {
                       data-wow-delay="10ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-find"></i>
                       </div>
                       <div className="content">
-                        <h5>Find What You Want</h5>
+                        <h5>Ingredients</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                            These drinks are made up of lemon,
+                              ginger, garlic ,honey, murumanyama,
+                                beetroot, banana, pineapple.
                         </p>
                       </div>
                     </li>
@@ -180,13 +202,11 @@ const Index = () => {
                       data-wow-delay="20ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-place"></i>
                       </div>
                       <div className="content">
-                        <h5>Easy Choose Your Place</h5>
+                        <h5>Enjoy different flavours</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                          The fresh kambucha drinks comes in manny different flavours such as Manyuchi, Lemon and many more.
                         </p>
                       </div>
                     </li>
@@ -195,13 +215,12 @@ const Index = () => {
                       data-wow-delay="30ms"
                     >
                       <div className="icon">
-                        <i className="flaticon-social-care"></i>
                       </div>
                       <div className="content">
-                        <h5>Live Online Assistance</h5>
+                        <h5>Readily available</h5>
                         <p>
-                          Rhoncus dolor quam etiam mattis, tincidunt nec
-                          lobortis sociis facilisi aenean netus tempor duis.
+                          The fresh kambucha drinks are readily available in all our outlets. 
+                          Get yours today and enjoy the taste.
                         </p>
                       </div>
                     </li>
@@ -221,7 +240,7 @@ const Index = () => {
             <div className="col-lg-8">
               <div className="section-title text-center mb-60 wow fadeInUp">
                 <span className="sub-title">More of our Products</span>
-                <h2>Explore Catalogue</h2>
+                <h2>Our Product Gallery</h2>
               </div>
             </div>
           </div>
@@ -231,10 +250,20 @@ const Index = () => {
           >
             <div className="place-item place-item-one">
               <div className="place-thumbnail">
-                <img src="assets/images/fresh/m1.jpeg" alt="Place Image" />
+                <img src="assets/images/fresh/a.jpeg" alt="Place Image" />
                 <div className="place-overlay">
                   <div className="place-content text-center">
-                    <span className="listing">Manyuchi</span>
+                    <span className="listing">Manyuchi  Power</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="place-item place-item-one">
+              <div className="place-thumbnail">
+                <img src="assets/images/fresh/one.jpeg" alt="Place Image" />
+                <div className="place-overlay">
+                  <div className="place-content text-center">
+                    <span className="listing">Fresh Kambucha Lemon Drink 1</span>
                   </div>
                 </div>
               </div>
@@ -244,17 +273,7 @@ const Index = () => {
                 <img src="assets/images/fresh/m2.jpeg" alt="Place Image" />
                 <div className="place-overlay">
                   <div className="place-content text-center">
-                    <span className="listing">Lemon</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="place-item place-item-one">
-              <div className="place-thumbnail">
-                <img src="assets/images/fresh/m2.jpeg" alt="Place Image" />
-                <div className="place-overlay">
-                  <div className="place-content text-center">
-                    <span className="listing">Lemon</span>
+                    <span className="listing">Fresh Kambucha Lemon Drink 2</span>
                   </div>
                 </div>
               </div>
@@ -264,17 +283,17 @@ const Index = () => {
                 <img src="assets/images/fresh/m3.jpeg" alt="Place Image" />
                 <div className="place-overlay">
                   <div className="place-content text-center">
-                    <span className="listing">Fresh Kambucha</span>
+                    <span className="listing">Fresh Kambucha Drink 3</span>
                   </div>
                 </div>
               </div>
             </div>
             <div className="place-item place-item-one">
               <div className="place-thumbnail">
-                <img src="assets/images/fresh/m1.jpeg" alt="Place Image" />
+                <img src="assets/images/fresh/a.jpeg" alt="Place Image" />
                 <div className="place-overlay">
                   <div className="place-content text-center">
-                    <span className="listing">Manyuchi</span>
+                    <span className="listing">Manyuchi Power</span>
                   </div>
                 </div>
               </div>
