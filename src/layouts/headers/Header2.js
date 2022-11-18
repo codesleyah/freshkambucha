@@ -40,8 +40,8 @@ const Header2 = () => {
                       <About />   
                       <Contact />
                       <li className="nav-btn">
-                        <Link href="/add-listing">
-                          <a className="main-btn icon-btn">Add Listing</a>
+                        <Link href="tel:+263771720598">
+                          <a className="main-btn icon-btn">Call Us Now</a>
                         </Link>
                       </li>
                     </ul>

@@ -25,7 +25,7 @@ const Index = () => {
               <div className="col-lg-12">
                 <div className="hero-content">
                   <h1 className="wow fadeInUp" data-wow-delay="30ms">
-                    Fresh Kambucha Drinks
+                    Kumbucha Fresh Zimbabwe (PVT) LTD
                   </h1>
                   <h3 className="wow fadeInDown" data-wow-delay="50ms">
                     My Taste, My Choice
@@ -157,7 +157,7 @@ const Index = () => {
               <div className="col-lg-8">
                 <div className="cta-content-box text-center wow fadeInUp">
                   <img src="assets/images/icon-1.png" alt="offer icon" />
-                  <h2>We Lead, and every else follow!</h2>
+                  <h2>We Lead, others follow!</h2>
                 </div>
               </div>
             </div>
